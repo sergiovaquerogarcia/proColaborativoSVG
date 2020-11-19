@@ -1,4 +1,4 @@
-
+//Revisado por Héctor Cano
 package sergiovgadivino;
 
 import java.util.Scanner;
