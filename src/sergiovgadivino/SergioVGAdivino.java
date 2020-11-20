@@ -1,3 +1,6 @@
+/* Corregido por Rafael Garcia Diaz
+	Todo correcto!!! */
+
 
 package sergiovgadivino;
 
